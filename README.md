@@ -1,0 +1,1 @@
+# Quantitative-Tests-of-a-Classical-Rotor-Kernel-for-the-FQCU-Programme-Thermal-Fluctuations
